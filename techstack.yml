@@ -1,0 +1,318 @@
+repo_name: TitanKing/push-notifications-flutter
+report_id: c1d9e1983eab09c8a00f7cda38e261da
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-26T10:00:43+00:00'
+requested_by: fbenevides
+provider: github
+branch: master
+detected_tools_count: 25
+tools:
+- name: Dart
+  description: A new web programming language with libraries, a virtual machine, and
+    tools
+  website_url: https://www.dartlang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1646/Twitter-02.png
+  detection_source_url: https://github.com/TitanKing/push-notifications-flutter
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/TitanKing/push-notifications-flutter
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/TitanKing/push-notifications-flutter
+  detection_source: Repo Metadata
+- name: Kotlin
+  description: Statically typed Programming Language targeting JVM and JavaScript
+  website_url: https://kotlinlang.org/
+  open_source: true
+  hosted_saas: true
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/TitanKing/push-notifications-flutter
+  detection_source: Repo Metadata
+- name: Objective-C
+  description: The primary programming language you use when writing software for
+    OS X and iOS
+  website_url: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/TitanKing/push-notifications-flutter
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/TitanKing/push-notifications-flutter
+  detection_source: Repo Metadata
+- name: Swift
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/TitanKing/push-notifications-flutter
+  detection_source: Repo Metadata
+- name: Android SDK
+  description: An SDK that provides you the API libraries and developer tools necessary
+    to build, test, and debug apps for Android.
+  website_url: http://developer.android.com
+  version: '31.0'
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source_url: https://github.com/TitanKing/push-notifications-flutter/blob/master/packages/pusher_beams/example/android/app/build.gradle
+  detection_source: packages/pusher_beams/example/android/app/build.gradle
+  last_updated_by: notapineapple
+  last_updated_on: 2021-12-03 08:20:05.000000000 Z
+- name: Flutter
+  description: Cross-platform mobile framework from Google
+  website_url: https://flutter.io/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/7180/flutter-mark-square-100.png
+  detection_source_url: https://github.com/TitanKing/push-notifications-flutter/blob/master/packages/pusher_beams/example/pubspec.yaml
+  detection_source: packages/pusher_beams/example/pubspec.yaml
+  last_updated_by: notapineapple
+  last_updated_on: 2021-12-17 10:23:33.000000000 Z
+- name: Firebase
+  description: The Realtime App Platform
+  website_url: https://firebase.google.com/
+  open_source: false
+  hosted_saas: true
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/116/cZLxNFZS.jpg
+  detection_source_url: https://github.com/TitanKing/push-notifications-flutter/blob/master/packages/pusher_beams_android/android/build.gradle
+  detection_source: packages/pusher_beams_android/android/build.gradle
+  last_updated_by: notapineapple
+  last_updated_on: 2022-01-12 21:21:13.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/TitanKing/push-notifications-flutter
+  detection_source: Repo Metadata
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/TitanKing/push-notifications-flutter/blob/master/packages/pusher_beams/example/android/app/build.gradle
+  detection_source: packages/pusher_beams/example/android/app/build.gradle
+  last_updated_by: notsofunctional
+  last_updated_on: 2021-10-01 06:49:20.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/TitanKing/push-notifications-flutter/blob/master/packages/pusher_beams/pubspec.yaml
+  detection_source: packages/pusher_beams/pubspec.yaml
+  last_updated_by: notsofunctional
+  last_updated_on: 2021-10-01 06:49:20.000000000 Z
+- name: Android OS
+  description: An open source mobile operating system by Google
+  website_url: https://www.android.com
+  version: '12.0'
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
+  detection_source_url: https://github.com/TitanKing/push-notifications-flutter/blob/master/packages/pusher_beams/example/android/app/build.gradle
+  detection_source: packages/pusher_beams/example/android/app/build.gradle
+  last_updated_by: notapineapple
+  last_updated_on: 2021-12-03 08:20:05.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/TitanKing/push-notifications-flutter/blob/master/packages/pusher_beams/example/ios/Podfile.lock
+  detection_source: packages/pusher_beams/example/ios/Podfile.lock
+  last_updated_by: notapineapple
+  last_updated_on: 2021-12-03 08:20:05.000000000 Z
+- name: js
+  website_url: www.js.com
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/5588/jscom.png
+  detection_source_url: https://github.com/TitanKing/push-notifications-flutter/blob/master/packages/pusher_beams_web/pubspec.yaml
+  detection_source: packages/pusher_beams_web/pubspec.yaml
+  last_updated_by: notsofunctional
+  last_updated_on: 2021-10-01 06:49:20.000000000 Z
+- name: cupertino_icons
+  description: Default icons asset for Cupertino widgets based on Apple styled icons
+  package_url: https://pub.dartlang.org/cupertino_icons
+  version: 1.0.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/TitanKing/push-notifications-flutter/blob/master/packages/pusher_beams/example/pubspec.lock
+  detection_source: packages/pusher_beams/example/pubspec.yaml
+  last_updated_by: notsofunctional
+  last_updated_on: 2021-10-01 06:49:20.000000000 Z
+- name: flutter
+  description: Visit flutter.io to get started
+  package_url: https://pub.dartlang.org/flutter
+  version: 0.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/TitanKing/push-notifications-flutter/blob/master/packages/pusher_beams/example/pubspec.lock
+  detection_source: packages/pusher_beams/example/pubspec.yaml
+  last_updated_by: notapineapple
+  last_updated_on: 2021-12-17 10:23:33.000000000 Z
+- name: js
+  description: Annotations to create static Dart interfaces for JavaScript APIs
+  package_url: https://pub.dartlang.org/js
+  version: 0.6.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/TitanKing/push-notifications-flutter/blob/master/packages/pusher_beams/example/pubspec.lock
+  detection_source: packages/pusher_beams_web/pubspec.yaml
+  last_updated_by: notsofunctional
+  last_updated_on: 2021-10-01 06:49:20.000000000 Z
+- name: mockito
+  description: A mock framework inspired by Mockito with APIs for Fakes
+  package_url: https://pub.dartlang.org/mockito
+  version: 5.0.16
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/TitanKing/push-notifications-flutter/blob/master/packages/pusher_beams/pubspec.lock
+  detection_source: packages/pusher_beams/pubspec.yaml
+  last_updated_by: notapineapple
+  last_updated_on: 2021-12-17 10:23:33.000000000 Z
+- name: plugin_platform_interface
+  description: Reusable base class for platform interfaces of Flutter federated plugins
+  package_url: https://pub.dartlang.org/plugin_platform_interface
+  version: 2.0.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/TitanKing/push-notifications-flutter/blob/master/packages/pusher_beams/example/pubspec.lock
+  detection_source: packages/pusher_beams_platform_interface/pubspec.yaml
+  last_updated_by: fbenevides
+  last_updated_on: 2022-02-15 13:51:55.000000000 Z
+- name: uuid
+  description: RFC4122
+  package_url: https://pub.dartlang.org/uuid
+  version: 3.0.5
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/TitanKing/push-notifications-flutter/blob/master/packages/pusher_beams/example/pubspec.lock
+  detection_source: packages/pusher_beams/pubspec.yaml
+  last_updated_by: notapineapple
+  last_updated_on: 2021-10-14 05:02:07.000000000 Z
+- name: junit:junit
+  description: JUnit is a unit testing framework for Java
+  version: '4.12'
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/TitanKing/push-notifications-flutter/blob/master/packages/pusher_beams_android/android/build.gradle
+  detection_source: packages/pusher_beams_android/android/build.gradle
+  last_updated_by: notapineapple
+  last_updated_on: 2021-10-12 08:04:08.000000000 Z
+  vulnerabilities:
+  - name: TemporaryFolder on unix-like systems does not limit access to created files
+    cve_id: CVE-2020-15250
+    cve_url: https://github.com/advisories/GHSA-269g-pwp5-87pp
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.13.1
+- name: org.jetbrains.kotlin:kotlin-stdlib-jdk7
+  description: Kotlin Standard Library JDK 7 extension
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/TitanKing/push-notifications-flutter/blob/master/packages/pusher_beams/example/android/app/build.gradle
+  detection_source: packages/pusher_beams/example/android/app/build.gradle
+  last_updated_by: notsofunctional
+  last_updated_on: 2021-10-01 06:49:20.000000000 Z
+- name: PushNotifications
+  description: PushNotifications SDK
+  package_url: https://cocoapods.org/pods/PushNotifications
+  version: 4.0.0
+  license: ''
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/package/cocoapods/image.png
+  detection_source_url: https://github.com/TitanKing/push-notifications-flutter/blob/master/packages/pusher_beams/example/ios/Podfile.lock
+  detection_source: packages/pusher_beams_ios/ios/pusher_beams_ios.podspec
+  last_updated_by: fbenevides
+  last_updated_on: 2022-02-14 16:56:14.000000000 Z
